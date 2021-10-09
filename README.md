@@ -2,7 +2,7 @@
 
 
 </div>
- <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="C">
+ <img align="right" alt="pedro" height="550" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/896170579525246979/896502967568580628/Amarelo_Magenta_Preto_Branco_Neon_Ficcao_Cientifica_Vinheta_de_Introducao_para_YouTube_1_1.gif">
 </div>
 
 
@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/896170579525246979/896197031998140416/Preto_Roxo_e_Ciano_Neon_Noir_Vaporwave_eSports_Vinheta_de_encerramento_para_YouTube_4.gif">
+  <img align="right" alt="pedro" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/896170579525246979/896197031998140416/Preto_Roxo_e_Ciano_Neon_Noir_Vaporwave_eSports_Vinheta_de_encerramento_para_YouTube_4.gif">
 </div>
   
   ##

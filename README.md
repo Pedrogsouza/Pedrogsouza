@@ -1,8 +1,8 @@
 
 
 
-</div>
- <img align="center" alt="pedro" height="230" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/896170579525246979/896502967568580628/Amarelo_Magenta_Preto_Branco_Neon_Ficcao_Cientifica_Vinheta_de_Introducao_para_YouTube_1_1.gif">
+<div align="center">
+ <img align="center" alt="pedro" height="229" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/896170579525246979/896502967568580628/Amarelo_Magenta_Preto_Branco_Neon_Ficcao_Cientifica_Vinheta_de_Introducao_para_YouTube_1_1.gif">
 </div>
 
 

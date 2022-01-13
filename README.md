@@ -1,16 +1,38 @@
-<div align="center"> 👋 Hi, I’m Pedro 
-<div align="center"> I’m Front-end developer and technology lover, I hope you like my profile and find something interesting in my projects.
+ <img src="https://cdn.discordapp.com/attachments/896170579525246979/930979414618030170/GIF-220112_211920.gif">
+
+
+
+<h3 align="center">Who I am?</h3>
     
-<div align="center">
- <img align="center" alt="pedro" height="229" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/896170579525246979/926997776737394698/GIF-220101_213707.gif">
-</div>
+    
+    
+<p align="center"> 
+ 👤 👋 Hi, I’m Pedro. I am <strong>a developer Front-End</strong> and <strong>UX/UI Designer</strong>.
+</p>
+
+<p align="center">
+ 💻 Skills: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, VUE.js and Boostrap.</strong>
+</p>
+
+<p align="center">
+  💼Tools: <strong> VSCode, Figma, Adobe XD, Trello, Notion, Git and GitHub.</strong>
+</p>
+
+<p align="center">
+  📱Contact: do you want to talk with me? message me on <strong> instagram, email or linkedin </strong>
+</p>
 
 
+    
+    
+    
+##
 <div align="center">
   <a href="https://github.com/Pedrogsouza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrogsouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrogsouza&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+<div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

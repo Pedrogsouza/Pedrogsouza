@@ -1,5 +1,3 @@
- <img src="https://cdn.discordapp.com/attachments/896170579525246979/930979414618030170/GIF-220112_211920.gif">
-
 
 
 <h3 align="center">Who I am?</h3>
@@ -7,11 +5,11 @@
     
     
 <p align="center"> 
- 👤 👋 Hi, I’m Pedro. I am <strong>a developer Front-End</strong> and <strong>UX/UI Designer</strong>.
+ 👤 👋 Hi, I’m Pedro. I am <strong>software test and quality analyst</strong>.
 </p>
 
 <p align="center">
- 💻 Skills: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, VUE.js and Boostrap.</strong>
+ 💻 Skills: <strong>HTML, CSS, JavaScript, Cypress, ReactJS, Detox.</strong>
 </p>
 
 <p align="center">
@@ -38,8 +36,8 @@
   <img align="center" alt="pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="pedro-Vue" height="30" width="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png">
-     <img align="center" alt="pedro-Bootstrap" height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+ 
+    
     
 
     

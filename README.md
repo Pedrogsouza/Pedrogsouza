@@ -1,58 +1,73 @@
-
-
-<h3 align="center">Who I am?</h3>
-    
-    
-    
-<p align="center"> 
- 👤 👋 Hi, I’m Pedro. I am <strong>software test and quality analyst</strong>.
-</p>
+<!-- README - Pedro G. Souza -->
+<h1 align="center">👋 Hi there, I'm Pedro</h1>
+<h3 align="center">QA Engineer</h3>
 
 <p align="center">
- 💻 Skills: <strong>HTML, CSS, JavaScript, Cypress, ReactJS, Detox.</strong>
+🌎 From Saquarema, Brazil • Passionate about tech, games, and quality<br>
+🚀 Focused on building reliable, scalable and user-focused experiences
 </p>
+
+---
+
+<h3 align="center">💻 Skills & Tech Stack</h3>
 
 <p align="center">
-  💼Tools: <strong> VSCode, Figma, Adobe XD, Trello, Notion, Git and GitHub.</strong>
+  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img alt="ReactJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img alt="Cypress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg"/>
+  <img align="center" alt="pedro-Postman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+  <img alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
 </p>
 
-<p align="center">
-  📱Contact: do you want to talk with me? message me on <strong> instagram, email or linkedin </strong>
-</p>
+---
 
+<h3 align="center">📊 GitHub Stats</h3>
 
-    
-    
-    
-##
 <div align="center">
   <a href="https://github.com/Pedrogsouza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrogsouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrogsouza&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedrogsouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrogsouza&layout=compact&langs_count=7&theme=github_dark" />
+  </a>
 </div>
-<div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- 
-    
-    
 
-    
-    
-    
-    
- 
-  
-  ##
- 
-<div> 
- 
-  <a href="https://www.instagram.com/pedrosouz4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:pedrosouz13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-pedro-g-souza-4b660621b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedrogsouza&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/joão-pedro-g-souza-4b660621b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">👀 Profile Views</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pedrogsouza&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
+
+---
+
+
+
+
+---
+<p align="center">
+⭐ **“Quality is not an act, it’s a habit.” — Aristotle**
+</p>
+

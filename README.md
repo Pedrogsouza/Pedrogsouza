@@ -25,23 +25,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <a href="https://github.com/Pedrogsouza">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrogsouza&layout=compact&langs_count=7&theme=github_dark" />
-  </a>
-</div>
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedrogsouza&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 <h3 align="center">🌐 Connect with me</h3>
 

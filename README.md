@@ -38,7 +38,7 @@
 
 ---
 
-<h3 align="center">👀 Profile Views</h3>
+<h3 align="center"> Profile Views</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pedrogsouza&color=blueviolet&style=for-the-badge" alt="profile views"/>

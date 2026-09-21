@@ -1,15 +1,15 @@
 <!-- README - Pedro G. Souza -->
-<h1 align="center">👋 Hi there, I'm Pedro</h1>
+<h1 align="center"> Hi there, I'm Pedro</h1>
 <h3 align="center">QA Engineer</h3>
 
 <p align="center">
-🌎 From Saquarema, Brazil • Passionate about tech, games, and quality<br>
-🚀 Focused on building reliable, scalable and user-focused experiences
+ From Saquarema, Brazil • Passionate about tech, games, and quality<br>
+ Focused on building reliable, scalable and user-focused experiences
 </p>
 
 ---
 
-<h3 align="center">💻 Skills & Tech Stack</h3>
+<h3 align="center"> Skills & Tech Stack</h3>
 
 <p align="center">
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -27,7 +27,7 @@
 
 
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center"> Connect with me</h3>
 
 <p align="center">
 
@@ -50,7 +50,5 @@
 
 
 ---
-<p align="center">
-⭐ **“Quality is not an act, it’s a habit.” — Aristotle**
-</p>
+
 
